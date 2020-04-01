@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Evgeny-Rubin-26-03-2020/static/css/main.dc6ab81a.chunk.css",
-    "main.js": "/Evgeny-Rubin-26-03-2020/static/js/main.3c122839.chunk.js",
-    "main.js.map": "/Evgeny-Rubin-26-03-2020/static/js/main.3c122839.chunk.js.map",
+    "main.js": "/Evgeny-Rubin-26-03-2020/static/js/main.e18bfdc6.chunk.js",
+    "main.js.map": "/Evgeny-Rubin-26-03-2020/static/js/main.e18bfdc6.chunk.js.map",
     "runtime-main.js": "/Evgeny-Rubin-26-03-2020/static/js/runtime-main.fa23d60c.js",
     "runtime-main.js.map": "/Evgeny-Rubin-26-03-2020/static/js/runtime-main.fa23d60c.js.map",
     "static/js/2.b8940d03.chunk.js": "/Evgeny-Rubin-26-03-2020/static/js/2.b8940d03.chunk.js",
     "static/js/2.b8940d03.chunk.js.map": "/Evgeny-Rubin-26-03-2020/static/js/2.b8940d03.chunk.js.map",
     "index.html": "/Evgeny-Rubin-26-03-2020/index.html",
-    "precache-manifest.c6f7a721f83406eb0a3e3d663f23c10e.js": "/Evgeny-Rubin-26-03-2020/precache-manifest.c6f7a721f83406eb0a3e3d663f23c10e.js",
+    "precache-manifest.d9c219d4ba8b5de0bcc31c0daf4a175d.js": "/Evgeny-Rubin-26-03-2020/precache-manifest.d9c219d4ba8b5de0bcc31c0daf4a175d.js",
     "service-worker.js": "/Evgeny-Rubin-26-03-2020/service-worker.js",
     "static/css/main.dc6ab81a.chunk.css.map": "/Evgeny-Rubin-26-03-2020/static/css/main.dc6ab81a.chunk.css.map",
     "static/js/2.b8940d03.chunk.js.LICENSE.txt": "/Evgeny-Rubin-26-03-2020/static/js/2.b8940d03.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fa23d60c.js",
     "static/js/2.b8940d03.chunk.js",
     "static/css/main.dc6ab81a.chunk.css",
-    "static/js/main.3c122839.chunk.js"
+    "static/js/main.e18bfdc6.chunk.js"
   ]
 }
