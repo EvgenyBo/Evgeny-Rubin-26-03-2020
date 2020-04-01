@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Evgeny-Rubin-26-03-2020/static/css/main.dc6ab81a.chunk.css",
+    "main.js": "/Evgeny-Rubin-26-03-2020/static/js/main.3c122839.chunk.js",
+    "main.js.map": "/Evgeny-Rubin-26-03-2020/static/js/main.3c122839.chunk.js.map",
+    "runtime-main.js": "/Evgeny-Rubin-26-03-2020/static/js/runtime-main.fa23d60c.js",
+    "runtime-main.js.map": "/Evgeny-Rubin-26-03-2020/static/js/runtime-main.fa23d60c.js.map",
+    "static/js/2.b8940d03.chunk.js": "/Evgeny-Rubin-26-03-2020/static/js/2.b8940d03.chunk.js",
+    "static/js/2.b8940d03.chunk.js.map": "/Evgeny-Rubin-26-03-2020/static/js/2.b8940d03.chunk.js.map",
+    "index.html": "/Evgeny-Rubin-26-03-2020/index.html",
+    "precache-manifest.1d1640f12b64b9b11c1cb893d3aa9ece.js": "/Evgeny-Rubin-26-03-2020/precache-manifest.1d1640f12b64b9b11c1cb893d3aa9ece.js",
+    "service-worker.js": "/Evgeny-Rubin-26-03-2020/service-worker.js",
+    "static/css/main.dc6ab81a.chunk.css.map": "/Evgeny-Rubin-26-03-2020/static/css/main.dc6ab81a.chunk.css.map",
+    "static/js/2.b8940d03.chunk.js.LICENSE.txt": "/Evgeny-Rubin-26-03-2020/static/js/2.b8940d03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa23d60c.js",
+    "static/js/2.b8940d03.chunk.js",
+    "static/css/main.dc6ab81a.chunk.css",
+    "static/js/main.3c122839.chunk.js"
+  ]
+}
