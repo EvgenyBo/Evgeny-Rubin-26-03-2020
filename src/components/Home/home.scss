@@ -1,0 +1,36 @@
+.homeWeather {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 85%;
+    margin: auto;
+    position: relative;
+    .fiveDay {
+        text-align: center;
+        padding: 10px 0 20px 0;
+        font-size: 70px;
+    }
+    .currentCity {
+        margin-left: 5px;
+        font-size: 20px;
+        color: black;
+        .dark-mode & {
+            color: white;
+        }
+    }
+    input {
+        .dark-mode & {
+            color: white;
+        }
+    }
+    .MuiFormLabel-root {
+        .dark-mode & {
+            color: white;
+            opacity: 0.5;
+        }
+    }
+}
+
+.CitySelector {
+    padding: 30px;
+}

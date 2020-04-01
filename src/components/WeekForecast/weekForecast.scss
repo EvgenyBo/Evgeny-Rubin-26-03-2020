@@ -1,0 +1,30 @@
+.dailyForecast {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    .card {
+        border: 1px solid;
+        border-radius: 4px;
+        opacity: 0.5;
+        padding: 0 12px 0 12px;
+        margin: 0 10px 0 10px;
+        width: 150px;
+        text-align: center;
+    }
+}
+
+.dailyCards {
+    display: flex;
+}
+
+.degreeToggle {
+    padding: 12px 0 15px 0;
+    display: flex;
+    .form-check {
+        margin-right: 20px;
+        display: flex;
+    }
+    .form-check-label {
+        padding-left: 5px;
+    }
+}

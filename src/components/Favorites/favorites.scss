@@ -1,0 +1,16 @@
+.favorites {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .todayTitle {
+        padding: 10px 0 40px 0;
+        font-size: 70px;
+    }
+    .degreeToggle {
+        padding-bottom: 25px;
+    }
+    .addCity {
+        font-size: 20px;
+        padding-top: 30px;
+    }
+}
