@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Evgeny-Rubin-26-03-2020/precache-manifest.d9c219d4ba8b5de0bcc31c0daf4a175d.js"
+  "/Evgeny-Rubin-26-03-2020/precache-manifest.1efb95a0a90f9419ce48cd843ad7f1db.js"
 );
 
 self.addEventListener('message', (event) => {
