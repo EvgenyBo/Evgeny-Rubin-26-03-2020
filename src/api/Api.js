@@ -1,8 +1,6 @@
-const API_KEY = process.env.REACT_APP_API_KEY;
+const API_KEY = '9N0tBeIruWDU4Z1V47DhCikBriMdz1iE';
 const API_HOST = 'http://dataservice.accuweather.com/';
 const API_VERSION = 'v1';
-
-console.log(process.env.API_KEY)
 
 
 const CitiesAutocompleteApiUrl = (str) => `${API_HOST}locations/${API_VERSION}/cities/autocomplete?apikey=${API_KEY}&q=${str}`;
