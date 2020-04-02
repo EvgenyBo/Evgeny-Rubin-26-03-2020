@@ -1,7 +1,6 @@
-const API_KEY = '9N0tBeIruWDU4Z1V47DhCikBriMdz1iE';
+const API_KEY = 'cU85WY4yqz7N0DckhOhmCeYQxKFADrAn';
 const API_HOST = 'http://dataservice.accuweather.com/';
 const API_VERSION = 'v1';
-
 
 const CitiesAutocompleteApiUrl = (str) => `${API_HOST}locations/${API_VERSION}/cities/autocomplete?apikey=${API_KEY}&q=${str}`;
 
